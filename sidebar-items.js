@@ -1,0 +1,1 @@
+../cryptocompare/target/doc/cryptocompare/sidebar-items.js
