@@ -1,0 +1,1 @@
+../cryptocompare/target/doc/search-index.js
